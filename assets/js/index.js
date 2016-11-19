@@ -1,5 +1,5 @@
 var accessToken = "6127d3da86cf495588b260d10c5855dc",
-      subscriptionKey = "2c60a18b336d4e55bff3285c52cd7bdb",
+      subscriptionKey = "36fc1209a0ac4206b29d52e9ef35e407",
       baseUrl = "https://api.api.ai/v1/",
       $speechInput, // The input element, the speech box
       $recBtn, // Toggled recording button value
